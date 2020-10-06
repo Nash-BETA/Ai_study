@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+# サンプルデータセットの読み込み
 from sklearn import datasets
 
 iris = datasets.load_iris()
